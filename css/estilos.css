@@ -10,9 +10,8 @@ body{
     background-color: #ffffff;
 }
 .rounded-image {
-    border-radius: 50%;
     width: 190px;
-    border-radius: 10px;
+    border-radius: 100px;
   }
 .unidades{
     text-align: right;
