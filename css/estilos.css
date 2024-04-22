@@ -1,0 +1,19 @@
+html,body,h1,h2,h3,h4,ol,ul,li,a,p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    font-family: calibri,arial;
+    color: #000000;
+    text-decoration: none;
+}
+body{
+    background-color: #ffffff;
+}
+.rounded-image {
+    border-radius: 50%;
+    width: 190px;
+    border-radius: 10px;
+  }
+.unidades{
+    text-align: right;
+}
